@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas Ezzahaf
 
-<!--
-**ezzahaf-anas/ezzahaf-anas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Digital Development Student  
+💻 Full-Stack Developer  
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🌐 Full-Stack Web Development
+- 🗄️ Databases & Backend Development
+- 🔧 Git & GitHub
+
+---
+
+## 🚀 My Projects
+
+- 📝 Todo List App
+- 💰 Expense Tracker
+- 📚 Library Management System
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [ezzahaf-anas](https://github.com/ezzahaf-anas)
+- 🔗 LinkedIn: [Anas Ezzahaf](https://www.linkedin.com/in/ezzahaf-anas-79b0343b4/)
+- 📧 Email: ezzahafanas0@gmail.com
